@@ -15,12 +15,12 @@
   },
   "amguide": {
         "subs": [
-            { folder: "download", title: "⬇️ Download" },
-            { folder: "addfavorite", title: "❤️ Add to Favorites" },
-            { folder: "showfavorite", title: "💖 View Your Favorites" },
-            { folder: "resumeslideshow", title: "🖼️ Resume Slideshow" },
-            { folder: "buymeacoffe", title: "☕ Buy Me a Coffee" },
-            { folder: "rate", title: "⭐ Rate This App" },
+		    { "folder": "download", "title": "⬇️ Download" },
+            { "folder": "addfavorite", "title": "❤️ Add to Favorites" },
+            { "folder": "showfavorite", "title": "💖 View Your Favorites" },
+            { "folder": "resumeslideshow", "title": "🖼️ Resume Slideshow" },
+            { "folder": "buymeacoffe", "title": "☕ Buy Me a Coffee" },
+            { "folder": "rate", "title": "⭐ Rate This App" }
    
     ]
   }
