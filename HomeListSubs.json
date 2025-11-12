@@ -1,0 +1,27 @@
+{
+  "sjustin": {
+        "subs": [
+            { "folder": "rising_star", "title": "🌟 Rising Star of the Week: Mia" },
+            { "folder": "uploaded_today", "title": "💃 Today Drops" },
+            { "folder": "this_weekend", "title": "🦵 This Weekend" },
+            { "folder": "first_seen_this_week", "title": "👀 First Seen This Week" },
+            { "folder": "new_and_noteworthy", "title": "✨ New & Noteworthy" },
+            { "folder": "trending_now", "title": "🔥 Trending Now" },
+            { "folder": "most_viewed", "title": "👀 Most Viewed" },
+            { "folder": "fan_favorites", "title": "❤️ Fan Favorites" },
+            { "folder": "editors_picks", "title": "🎨 Editor’s Picks" },
+            { "folder": "fresh_yome", "title": "👙 Fresh Yome" }
+        ]
+  },
+  "amguide": {
+        "subs": [
+            { "folder": "download_eFUb90BBLSo", "title": "⬇️ Save as Wallpaper" },
+            { "folder": "addfavorite_eFUb90BBLSo", "title": "❤️ Add to Favorites" },
+            { "folder": "showfavorite_eFUb90BBLSo", "title": "💖 View Your Favorites" },
+            { "folder": "resumeslideshow_eFUb90BBLSo", "title": "🖼️ Resume Slideshow" },
+            { "folder": "buymeacoffe_eFUb90BBLSo", "title": "☕ Buy Me a Coffee" },
+            { "folder": "subscribe_eFUb90BBLSo", "title": "🔥 Subscribe for Hotter Stuff" }
+    ]
+  }
+}
+
