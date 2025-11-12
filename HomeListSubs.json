@@ -13,15 +13,19 @@
             { "folder": "fresh_yome", "title": "👙 Fresh Yome" }
         ]
   },
-  "amguide": {
+  "amtop10": {
         "subs": [
 		    { "folder": "download", "title": "⬇️ Download" },
-            { "folder": "addfavorite", "title": "❤️ Add to Favorites" },
-            { "folder": "showfavorite", "title": "💖 View Your Favorites" },
-            { "folder": "resumeslideshow", "title": "🖼️ Resume Slideshow" },
-            { "folder": "buymeacoffe", "title": "☕ Buy Me a Coffee" },
-            { "folder": "rate", "title": "⭐ Rate This App" }
-   
+            { "folder": "leggy", "title": "🦵 Legs for Days" },
+            { "folder": "tubetop", "title": "🎀 Tube Top" },
+            { "folder": "shorts", "title": "🩳 Shorts" },
+            { "folder": "miniskirt", "title": "🩰 Mini Skirt" },
+            { "folder": "high_heels", "title": "👠 High Heels" },
+            { "folder": "stockings", "title": "🧦 Stockings" },
+            { "folder": "lingerie", "title": "💋 Lingerie" },
+            { "folder": "swimwear", "title": "👙 Swimwear" },
+            { "folder": "cosplay", "title": "🎭 Cosplay" },
+            { "folder": "hat", "title": "🎩 Hat Beauty" }
     ]
   }
 }
