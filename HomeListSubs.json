@@ -15,12 +15,13 @@
   },
   "amguide": {
         "subs": [
-            { "folder": "download_eFUb90BBLSo", "title": "⬇️ Save as Wallpaper" },
-            { "folder": "addfavorite_eFUb90BBLSo", "title": "❤️ Add to Favorites" },
-            { "folder": "showfavorite_eFUb90BBLSo", "title": "💖 View Your Favorites" },
-            { "folder": "resumeslideshow_eFUb90BBLSo", "title": "🖼️ Resume Slideshow" },
-            { "folder": "buymeacoffe_eFUb90BBLSo", "title": "☕ Buy Me a Coffee" },
-            { "folder": "subscribe_eFUb90BBLSo", "title": "🔥 Subscribe for Hotter Stuff" }
+            { folder: "download", title: "⬇️ Download" },
+            { folder: "addfavorite", title: "❤️ Add to Favorites" },
+            { folder: "showfavorite", title: "💖 View Your Favorites" },
+            { folder: "resumeslideshow", title: "🖼️ Resume Slideshow" },
+            { folder: "buymeacoffe", title: "☕ Buy Me a Coffee" },
+            { folder: "rate", title: "⭐ Rate This App" },
+   
     ]
   }
 }
