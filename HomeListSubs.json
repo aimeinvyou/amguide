@@ -16,15 +16,14 @@
   "amtop10": {
         "subs": [
             { "folder": "leggy", "title": "🦵 Legs for Days" },
-            { "folder": "tubetop", "title": "🎀 Tube Top" },
-            { "folder": "shorts", "title": "🩳 Shorts" },
-            { "folder": "miniskirt", "title": "🩰 Mini Skirt" },
-            { "folder": "high_heels", "title": "👠 High Heels" },
-            { "folder": "stockings", "title": "🧦 Stockings" },
-            { "folder": "lingerie", "title": "💋 Lingerie" },
-            { "folder": "swimwear", "title": "👙 Swimwear" },
+            { "folder": "bakunyuu", "title": "Bakunyuu 🌰" },
+            { "folder": "backless", "title": "💫Bare Backless" },
+            { "folder": "bodycon", "title": "👗 Bodycon " },
             { "folder": "cosplay", "title": "🎭 Cosplay" },
-            { "folder": "hat", "title": "🎩 Hat Beauty" }
+            { "folder": "hat", "title": "🎩 Hat Beauty" },
+            { "folder": "keyhole", "title": "Keyhole Temptation🔑" },
+            { "folder": "longskirt", "title": "👗 Long Skirt" },
+            { "folder": "sheertights", "title": "🖤 Sheer Tights" }
     ]
   }
 }
