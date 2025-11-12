@@ -1,6 +1,6 @@
-A:\dev\__\a.mguide\addfavorite\w7.webp
-A:\dev\__\a.mguide\buymeacoffe\w7.webp
-A:\dev\__\a.mguide\download\w7.webp
+A:\dev\__\a.mguide\addfavorite\favorite.mp4
+A:\dev\__\a.mguide\buymeacoffe\buymeacoffe.mp4
+A:\dev\__\a.mguide\download\download.mp4
 A:\dev\__\a.mguide\rate\rate.mp4
-A:\dev\__\a.mguide\resumeslideshow\w7.webp
-A:\dev\__\a.mguide\showfavorite\w7.webp
+A:\dev\__\a.mguide\resumeslideshow\ss.mp4
+A:\dev\__\a.mguide\showfavorite\fav.mp4
