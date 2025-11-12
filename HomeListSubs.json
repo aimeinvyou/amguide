@@ -15,7 +15,6 @@
   },
   "amtop10": {
         "subs": [
-		    { "folder": "download", "title": "⬇️ Download" },
             { "folder": "leggy", "title": "🦵 Legs for Days" },
             { "folder": "tubetop", "title": "🎀 Tube Top" },
             { "folder": "shorts", "title": "🩳 Shorts" },
