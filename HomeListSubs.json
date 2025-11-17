@@ -23,7 +23,15 @@
             { "folder": "hat", "title": "🎩 Hat Beauty" },
             { "folder": "keyhole", "title": "Keyhole Temptation🔑" },
             { "folder": "longskirt", "title": "👗 Long Skirt" },
-            { "folder": "sheertights", "title": "🖤 Sheer Tights" }
+            { "folder": "sheertights", "title": "🖤 Sheer Tights" },
+
+            { "folder": "art", "title": "🎨 Artistic Muse" },
+            { "folder": "lying", "title": "🛏️ Sensual Lying" },
+            { "folder": "office", "title": "💼 Office Temptation" },
+            { "folder": "seaside", "title": "🌊 Seaside Seduction" },
+            { "folder": "serving", "title": "🍑 Serving Curves" },
+            { "folder": "wxy", "title": "🔥 Mystery Sis" },
+            { "folder": "yome", "title": "💖 Lovely Yome" }
     ]
   }
 }
