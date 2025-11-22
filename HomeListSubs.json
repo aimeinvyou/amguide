@@ -3,23 +3,22 @@
     "subs": [
         { "folder": "rising_star", "title": "🌟 Rising Star: Mia" },
         { "folder": "uploaded_today", "title": "💃 Today Drops" },
-        { "folder": "this_weekend", "title": "🦵 This Weekend" },
-        { "folder": "first_seen_this_week", "title": "👀 First Seen" },
-        { "folder": "new_and_noteworthy", "title": "✨ New & Noteworthy" },
-        { "folder": "trending_now", "title": "🔥 Trending Now" },
-        { "folder": "most_viewed", "title": "👀 Most Viewed" },
-        { "folder": "fan_favorites", "title": "❤️ Fan Favorites" },
-        { "folder": "editors_picks", "title": "🎨 Editor’s Picks" },
-        { "folder": "fresh_yome", "title": "👙 Fresh Yome" },
-
-        { "folder": "fresh_wxy", "title": "🔥 Fresh WXY" },
+        { "folder": "fresh_wxy", "title": "🔥 Fresh Yanni" },
+        { "folder": "fresh_yome", "title": "👙 Fresh Yome" }
         { "folder": "judi", "title": "💎 Judi Collection" },
         { "folder": "lavish_soiree", "title": "🍸 Lavish Soirée" },
         { "folder": "lonelyyome", "title": "💘 Lonely Yome" },
         { "folder": "mami", "title": "💗 Mami Vibes" },
         { "folder": "night", "title": "🌙 Night Mood" },
         { "folder": "softly_curvy", "title": "🍑 Softly Curvy" },
-        { "folder": "yuxi", "title": "✨ Yuxi Glow" }
+        { "folder": "yuxi", "title": "✨ Yuxi Glow" },
+
+        { "folder": "first_seen_this_week", "title": "👀 First Seen" },
+        { "folder": "new_and_noteworthy", "title": "✨ New & Noteworthy" },
+        { "folder": "trending_now", "title": "🔥 Trending Now" },
+        { "folder": "most_viewed", "title": "👀 Most Viewed" },
+        { "folder": "fan_favorites", "title": "❤️ Fan Favorites" },
+        { "folder": "editors_picks", "title": "🎨 Editor’s Picks" },
     ]
   },
   "amtop10": {
@@ -55,7 +54,6 @@
         { "folder": "garden", "title": "🌺 Garden Serenity" },
         { "folder": "japanese", "title": "🎌 Japanese Aesthetics" },
         { "folder": "nextdoor", "title": "🏠 Girl Next Door" },
-        { "folder": "vacation", "title": "🌴 Vacation Mood" },
         { "folder": "yacht_party", "title": "⛵ Yacht Party Glow" },
         { "folder": "yuyu", "title": "✨ Yuyu Charm" }
     ]
