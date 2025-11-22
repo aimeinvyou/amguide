@@ -1,45 +1,63 @@
 {
   "sjustin": {
     "subs": [
-      { "folder": "rising_star", "title": "🌟 Rising Star: Mia" },
-      { "folder": "uploaded_today", "title": "💃 Today Drops" },
-      { "folder": "this_weekend", "title": "🦵 This Weekend" },
-      { "folder": "first_seen_this_week", "title": "👀 First Seen" },
-      { "folder": "new_and_noteworthy", "title": "✨ New & Noteworthy" },
-      { "folder": "trending_now", "title": "🔥 Trending Now" },
-      { "folder": "most_viewed", "title": "👀 Most Viewed" },
-      { "folder": "fan_favorites", "title": "❤️ Fan Favorites" },
-      { "folder": "editors_picks", "title": "🎨 Editor’s Picks" },
-      { "folder": "fresh_yome", "title": "👙 Fresh Yome" }
+        { "folder": "rising_star", "title": "🌟 Rising Star: Mia" },
+        { "folder": "uploaded_today", "title": "💃 Today Drops" },
+        { "folder": "this_weekend", "title": "🦵 This Weekend" },
+        { "folder": "first_seen_this_week", "title": "👀 First Seen" },
+        { "folder": "new_and_noteworthy", "title": "✨ New & Noteworthy" },
+        { "folder": "trending_now", "title": "🔥 Trending Now" },
+        { "folder": "most_viewed", "title": "👀 Most Viewed" },
+        { "folder": "fan_favorites", "title": "❤️ Fan Favorites" },
+        { "folder": "editors_picks", "title": "🎨 Editor’s Picks" },
+        { "folder": "fresh_yome", "title": "👙 Fresh Yome" },
+
+        { "folder": "fresh_wxy", "title": "🔥 Fresh WXY" },
+        { "folder": "judi", "title": "💎 Judi Collection" },
+        { "folder": "lavish_soiree", "title": "🍸 Lavish Soirée" },
+        { "folder": "lonelyyome", "title": "💘 Lonely Yome" },
+        { "folder": "mami", "title": "💗 Mami Vibes" },
+        { "folder": "night", "title": "🌙 Night Mood" },
+        { "folder": "softly_curvy", "title": "🍑 Softly Curvy" },
+        { "folder": "yuxi", "title": "✨ Yuxi Glow" }
     ]
   },
   "amtop10": {
     "subs": [
-      { "folder": "leggy", "title": "🦵 Legs for Days" },
-      { "folder": "bakunyuuu", "title": "Bakunyuu 🌰" },
-      { "folder": "backless", "title": "💫Bare Backless" },
-      { "folder": "bodycon", "title": "👗 Bodycon " },
-      { "folder": "cosplay", "title": "🎭 Cosplay" },
-      { "folder": "hat", "title": "🎩 Hat Beauty" },
-      { "folder": "keyhole", "title": "Keyhole Temptation🔑" },
-      { "folder": "longskirt", "title": "👗 Long Skirt" },
-      { "folder": "sheertights", "title": "🖤 Sheer Tights" },
+        { "folder": "leggy", "title": "🦵 Legs for Days" },
+        { "folder": "bakunyuuu", "title": "Bakunyuu 🌰" },
+        { "folder": "backless", "title": "💫Bare Backless" },
+        { "folder": "bodycon", "title": "👗 Bodycon " },
+        { "folder": "cosplay", "title": "🎭 Cosplay" },
+        { "folder": "hat", "title": "🎩 Hat Beauty" },
+        { "folder": "keyhole", "title": "Keyhole Temptation🔑" },
+        { "folder": "longskirt", "title": "👗 Long Skirt" },
+        { "folder": "sheertights", "title": "🖤 Sheer Tights" },
 
-      { "folder": "art", "title": "🎨 Artistic Muse" },
-      { "folder": "lying", "title": "🛏️ Sensual Lying" },
-      { "folder": "office", "title": "💼 Office Temptation" },
-      { "folder": "seaside", "title": "🌊 Seaside Seduction" },
-      { "folder": "serving", "title": "🍑 Serving Curves" },
-      { "folder": "wxy", "title": "🔥 Mystery Sis" },
-      { "folder": "yome", "title": "💖 Lovely Yome" },
+        { "folder": "art", "title": "🎨 Artistic Muse" },
+        { "folder": "lying", "title": "🛏️ Sensual Lying" },
+        { "folder": "office", "title": "💼 Office Temptation" },
+        { "folder": "seaside", "title": "🌊 Seaside Seduction" },
+        { "folder": "serving", "title": "🍑 Serving Curves" },
+        { "folder": "wxy", "title": "🔥 Mystery Sis" },
+        { "folder": "yome", "title": "💖 Lovely Yome" },
 
-      { "folder": "bath", "title": "🛁 Steamy Bath Bliss" },
-      { "folder": "farm", "title": "🌾 Country Temptation" },
-      { "folder": "lure", "title": "🎣 Irresistible Lure" },
-      { "folder": "mathteacher", "title": "📐 Math Teacher" },
-      { "folder": "physicsteacher", "title": "🧲 Physics Teacher" },
-      { "folder": "sleek", "title": "💎 Sleek Charm" },
-      { "folder": "pure", "title": "✨ Pure " }
+        { "folder": "bath", "title": "🛁 Steamy Bath Bliss" },
+        { "folder": "farm", "title": "🌾 Country Temptation" },
+        { "folder": "lure", "title": "🎣 Irresistible Lure" },
+        { "folder": "mathteacher", "title": "📐 Math Teacher" },
+        { "folder": "physicsteacher", "title": "🧲 Physics Teacher" },
+        { "folder": "sleek", "title": "💎 Sleek Charm" },
+        { "folder": "pure", "title": "✨ Pure " },
+
+      
+        { "folder": "ancientcity", "title": "🏯 Ancient City Vibes" },
+        { "folder": "garden", "title": "🌺 Garden Serenity" },
+        { "folder": "japanese", "title": "🎌 Japanese Aesthetics" },
+        { "folder": "nextdoor", "title": "🏠 Girl Next Door" },
+        { "folder": "vacation", "title": "🌴 Vacation Mood" },
+        { "folder": "yacht_party", "title": "⛵ Yacht Party Glow" },
+        { "folder": "yuyu", "title": "✨ Yuyu Charm" }
     ]
   }
 }
