@@ -13,12 +13,17 @@
         { "folder": "softly_curvy", "title": "🍑 Softly Curvy" },
         { "folder": "yuxi", "title": "✨ Yuxi Glow" },
 
-        { "folder": "first_seen_this_week", "title": "👀 First Seen" },
         { "folder": "new_and_noteworthy", "title": "✨ New & Noteworthy" },
         { "folder": "trending_now", "title": "🔥 Trending Now" },
         { "folder": "most_viewed", "title": "👀 Most Viewed" },
         { "folder": "fan_favorites", "title": "❤️ Fan Favorites" },
-        { "folder": "editors_picks", "title": "🎨 Editor’s Picks" }
+        { "folder": "editors_picks", "title": "🎨 Editor’s Picks" },
+
+        { "folder": "newface", "title": "🌼 New Face" },
+        { "folder": "seasoned_beauty", "title": "💖 Seasoned Beauty" },
+        { "folder": "swimmingpool", "title": "🏊 Poolside Vibes" },
+        { "folder": "vintage_camera", "title": "📸 Vintage Camera" }
+
     ]
   },
   "amtop10": {
