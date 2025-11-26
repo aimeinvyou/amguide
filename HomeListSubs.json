@@ -26,6 +26,9 @@
 
     ]
   },
+
+
+
   "amtop10": {
     "subs": [
         { "folder": "leggy", "title": "🦵 Legs for Days" },
@@ -62,6 +65,43 @@
         { "folder": "yacht_party", "title": "⛵ Yacht Party Glow" },
         { "folder": "yuyu", "title": "✨ Yuyu Charm" }
     ]
-  }
+  },
+
+
+
+    "abstunning": {
+        "subs": [
+            { "folder": "yujie", "title": "👑 Diva" },
+            { "folder": "vintage_vixens", "title": "🔥 Vintage Vixens" },
+            { "folder": "uniform_seduction", "title": "👼 Uniform Seduction" },
+            { "folder": "tubetop", "title": "🎀 Tube Top" },
+            { "folder": "reallyst", "title": "💫 Really Stunning" },
+            { "folder": "sport", "title": "🏃 Sporty Spice" },
+            { "folder": "sparkling", "title": "✨ Sparkling Sensation" },
+            { "folder": "slip", "title": "🪶 Silken Slip Dress" },
+            { "folder": "sensual_warrior", "title": "🩰 Sensual Warriors" },
+            { "folder": "seductive_gaze", "title": "👁️ Seductive Gaze" },
+            { "folder": "pure_enchantment", "title": "💖 Pure Enchantment" },
+            { "folder": "s", "title": "🌶️ S-Shape Curves" },
+            { "folder": "ni", "title": "👗 Minimal Miss" },
+            { "folder": "naturally_seductive", "title": "🌺 Naturally Seductive" },
+            { "folder": "minimal", "title": "💃Flirty Minimal" },
+            { "folder": "haltertop", "title": "Halter Dream 💭" },
+            { "folder": "keyhole", "title": "Keyhole Temptation🔑" },
+            { "folder": "lowcut", "title": "⏬ Low Cut" },
+            { "folder": "forever_divine", "title": "👼 Forever Divine" },
+            { "folder": "exquisite", "title": "🥂 Exquisite" },
+            { "folder": "exoticgrace", "title": "🕌 Exotic Grace" },
+            { "folder": "cutout", "title": "Cutout Couture ✂️" },
+            { "folder": "blooming_beauty", "title": "🌺 Blooming Beauty" },
+            { "folder": "bikini", "title": "👙 Bikini Beauty" },
+            { "folder": "bakunyuu", "title": "Bakunyuu 🌰" },
+            { "folder": "backless", "title": "💫Bare Backless" },
+            { "folder": "colorful", "title": "🌈 Colorful Charm" },
+            { "folder": "elite_queen", "title": "👑 Elite Queen" },
+            { "folder": "stunning", "title": "✨ Stunning Beauty" },
+            { "folder": "ai_grace", "title": "💄 AI Grace" }
+        ]
+    }
 }
 
