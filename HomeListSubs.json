@@ -22,7 +22,10 @@
         { "folder": "newface", "title": "🌼 New Face" },
         { "folder": "seasoned_beauty", "title": "💖 Seasoned Beauty" },
         { "folder": "swimmingpool", "title": "🏊 Poolside Vibes" },
-        { "folder": "vintage_camera", "title": "📸 Vintage Camera" }
+        { "folder": "vintage_camera", "title": "📸 Vintage Camera" },
+        { "folder": "minibabe", "title": "💫 Mini Babe" },
+        { "folder": "aloof", "title": "❄️ Aloof Charm" }
+
 
     ]
   },
