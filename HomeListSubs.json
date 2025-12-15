@@ -106,6 +106,43 @@
             { "folder": "stunning", "title": "✨ Stunning Beauty" },
             { "folder": "ai_grace", "title": "💄 AI Grace" }
         ]
+    },
+
+
+
+
+
+
+    "ccsweet": {
+        "subs": [
+            { "folder": "black_silk", "title": "🖤 Black Silk" },
+            { "folder": "bodycon", "title": "👗 Bodycon" },
+            { "folder": "cbnb", "title": "🏡 Cozy BnB" },
+            { "folder": "cburgundy", "title": "🍷 Burgundy Style" },
+            { "folder": "cfake", "title": "🎭 Fake Look" },
+            { "folder": "chef", "title": "👩‍🍳 Chef Outfit" },
+            { "folder": "chighneck", "title": "🎀 High Neck" },
+            { "folder": "clolita", "title": "💛 Sweety" },
+            { "folder": "crisscross", "title": "❌ Crisscross" },
+            { "folder": "cslip", "title": "🪶 Slip Dress" },
+            { "folder": "cwedding", "title": "👰 Wedding Dress" },
+            { "folder": "fairy", "title": "🧚 Fairy Look" },
+            { "folder": "game", "title": "🎮 Game Vibe" },
+            { "folder": "lace", "title": "🌸 Lace" },
+            { "folder": "laceband", "title": "💫 Lace Band" },
+            { "folder": "leg", "title": "🦵 Leg Focus" },
+            { "folder": "leo", "title": "🦁 Leo Style" },
+            { "folder": "bridesmaid", "title": "👰 Bridesmaid" },
+            { "folder": "night", "title": "🌙 Night Look" },
+            { "folder": "nurse", "title": "🩺 Nurse Outfit" },
+            { "folder": "police", "title": "👮 Police Outfit" },
+            { "folder": "rabbit", "title": "🐇 Rabbit Style" },
+            { "folder": "split", "title": "🪡 Sultry Split" },
+            { "folder": "sultry", "title": "🔥 Sultry Mood" }
+
+        ]
     }
+
+
 }
 
