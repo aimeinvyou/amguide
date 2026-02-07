@@ -145,7 +145,23 @@
         ]
     },
 
-
+   "ccwardrobe": {
+        "subs": [
+            { "folder": "che_chinese", "title": "🇨🇳 Chinese Style" },
+            { "folder": "che_fashion", "title": "💃 Fashion Wear" },
+            { "folder": "che_japanese", "title": "🎌 Japanese Style" },
+            { "folder": "che_korean", "title": "🇰🇷 Korean Style" },
+            { "folder": "che_southasia", "title": "🕌 South Asian" },
+            { "folder": "denim", "title": "👖 Denim" },
+            { "folder": "fur", "title": "🧥 Fur" },
+            { "folder": "pants", "title": "👖 Pants" },
+            
+            { "folder": "seethrough", "title": "✨Sheer Sensation" },
+            { "folder": "sweater", "title": "🧶 Sweater" },
+            { "folder": "leopard", "title": "🐆 Wild & Bold" },
+            { "folder": "cosplay", "title": "🎭 Cosplay Fantasy" }
+        ]
+    },
 
     "abkele": {
         "subs": [
