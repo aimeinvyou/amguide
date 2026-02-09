@@ -183,7 +183,34 @@
             { "folder": "kitchen", "title": "🍳 Kitchen Style" }
 
         ]
+    },
+
+    "ablxl": {
+        "subs": [
+            { "folder": "afterbath", "title": "🛏️ Just Stepped Out" },
+            { "folder": "bodycon", "title": "💃 Sculpted Bodycon" },
+            { "folder": "cheongsam", "title": "👘 Elegant in Cheongsam" },
+            { "folder": "demin_short", "title": "💎 Sublime Demin" },
+            { "folder": "fishdress", "title": "🐠 Mythical Mermaid" },
+            { "folder": "fur", "title": "🧥 Luxurious Fur Looks" },
+            { "folder": "halter", "title": "🌶️ Halter Neck Elegance" },
+            { "folder": "home", "title": "🏡 Cozy Chic at Home" },
+            { "folder": "keyhole", "title": "Keyhole Temptation 🔑" },
+            { "folder": "office", "title": "🎓 Enchanting in Office" },
+            { "folder": "oneshoulder", "title": "👗 Bold One-Shoulder Styles" },
+            { "folder": "plunge", "title": "🔥Plunging Passion" },
+            { "folder": "slip", "title": "🪶 Silken Slip Dress" },
+            { "folder": "snow", "title": "❄️ Winter Wonderland" },
+            { "folder": "student", "title": "📚 Student Charm" },
+            { "folder": "cos", "title": "🎭 Cosplay" },
+            { "folder": "floral", "title": "🌸 Flirty Floral Charms" },
+            { "folder": "justin", "title": "💗 Mami Vibes" },
+            { "folder": "tubetop", "title": "🎀 Tube Top" },
+            { "folder": "sultry", "title": "🔥 Sultry Allure" }
+
+        ]
     }
+
 
 }
 
